@@ -19,7 +19,7 @@ The app supports voice input, emoji reactions, background brightness adjustment,
 
 ## Screenshot
 
-![Poly AI Chat Screenshot](./Screenshot%202025-06-08%20050629.png)
+![Poly AI Chat Screenshot](file:///C:/Users/ayush/OneDrive/Desktop/github%20projects/poly%20chat%20web/Screenshot%202025-06-08%20050629.png)
 
 ---
 
