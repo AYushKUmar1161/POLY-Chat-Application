@@ -1,21 +1,30 @@
-# Poly AI Chat Backend
+# Poly AI Chat Application
 
-Simple Node.js backend for Poly AI Chat Application.
+A modern AI-powered chat application featuring a stunning moon-space live wallpaper background.  
+The app supports voice input, emoji reactions, background brightness adjustment, and a theme switcher for light/dark modes.
 
-## Setup
+---
 
-1. Navigate to backend folder.
-2. Run `npm install`.
-3. Run `npm start`.
-4. Backend runs on http://localhost:5000
+## Features
 
-## API
+- Real-time chat with AI responses  
+- Voice input support with microphone  
+- Emoji picker for expressive chats  
+- Background brightness adjustment slider  
+- Light and dark theme switching  
+- Responsive and sleek UI with smooth animations  
+- Stylish moon-space video wallpaper background  
 
-- POST `/api/chat`
+---
 
-Example request JSON:
+## Screenshot
 
-```json
-{
-  "message": "Hello"
-}
+![Poly AI Chat Screenshot](./Screenshot%202025-06-08%20050629.png)
+
+---
+
+## How to Run
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/poly-ai-chat.git
